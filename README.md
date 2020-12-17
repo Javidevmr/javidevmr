@@ -2,8 +2,6 @@
 # Javier Meléndez Rojas 💻 👋
 ### Find me! :  [![Linkedin Badge](https://img.shields.io/badge/-javidevmr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javidevmr/)](https://www.linkedin.com/in/javidevmr/) 
 
-<div data-iframe-width="15" data-iframe-height="15" data-share-badge-id="65589b3d-6396-4959-ac1a-829d64032f8f" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
 </hr>
 
 ### Hello!
