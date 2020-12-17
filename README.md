@@ -7,9 +7,9 @@
 Systems and computer engineer. Backend developer with passion for learning, discovering and innovating. Follower of .NET technologies. Follower of .NET without putting aside the application of frontend technologies.
 
 ### About
-- 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1.
+- 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1. with MSSQL Server
 - 🔭 I’m currently working on Frontend : SPA with React JS
-- 🌱 I’m currently learning and mastering : Material UI, React JS
+- 🌱 I’m currently learning : Material UI, React JS
 - ⚡ Upcoming :
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
