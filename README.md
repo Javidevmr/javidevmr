@@ -1,8 +1,16 @@
-### Welcome to my GitHub Profile!👋
+### Hello, I'm Javier Melendez!👋
 <br>
 <br>
-I'm Javier a System engineer
+Systems and computer engineer. Backend developer with passion for learning, discovering and innovating. Follower of .NET technologies. Follower of .NET without putting aside the application of frontend technologies.
 
+### Find me! :  [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/javidevmr/)
+
+
+- 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1.
+- 🔭 I’m currently working on Frontend : SPA with React JS
+- 🌱 I’m currently learning and mastering : Material UI, React JS
+- ⚡ Upcoming : ...
+- 📫 Find me: 
 
 <!--
 **Javidevmr/javidevmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
