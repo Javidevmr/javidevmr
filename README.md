@@ -1,9 +1,12 @@
-### Hello, I'm Javier Melendez
-# Saksham Taneja 💻 👋
 
+# Saksham Taneja 💻 👋
+### Find me! :  [![Linkedin Badge](https://img.shields.io/badge/-javidevmr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javidevmr/)](https://www.linkedin.com/in/javidevmr/)
+
+</hr>
+### Hello, I'm Javier Melendez
 Systems and computer engineer. Backend developer with passion for learning, discovering and innovating. Follower of .NET technologies. Follower of .NET without putting aside the application of frontend technologies.
 
-### Find me! :  [![Linkedin Badge](https://img.shields.io/badge/-javidevmr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javidevmr/)](https://www.linkedin.com/in/javidevmr/)
+
 
 
 - 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1.
