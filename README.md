@@ -21,7 +21,7 @@ Systems and computer engineer. Backend developer with passion for learning, disc
 
 📫 **Backend**
 
-![JavaScript](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
 📫 **Frontend** : 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
