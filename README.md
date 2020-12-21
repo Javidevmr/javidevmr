@@ -5,7 +5,7 @@
 </hr>
 
 ### Hello!
-Systems and computer engineer. Backend developer with passion for learning, discovering and innovating. Follower of .NET technologies. Follower of .NET without putting aside the application of frontend technologies.
+Systems and computer engineer. Backend developer with passion for learning, discovering and innovating. Follower of .NET technologies without putting aside the application of frontend technologies.
 
 ### About
 - 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1. with MSSQL Server
