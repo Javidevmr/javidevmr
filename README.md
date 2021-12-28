@@ -9,13 +9,14 @@ Systems and computer engineer. Backend developer with passion for learning, disc
 
 ### About
 - 🔭 I’m currently working on Backend : web API REST/RESTful in .net Core 3.1. with MSSQL Server
-- 🔭 I’m currently working on Frontend : SPA with React JS
-- 🌱 I’m currently learning : Material UI, React JS
+- 🔭 I’m currently working on Frontend : React with NextJS usin components from Material UI
+- 🌱 I’m currently learning :
+![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB")
 - ⚡ Upcoming :
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white") 
-![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB")
+
 
 
 ### Technologies
